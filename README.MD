@@ -25,7 +25,7 @@ const basicStyles = StyleSheet.create(reactStyleMaterial);
 ```
 + enjoy the styles:
 ```javascript
-[styles list]: https://github.com/afeiship/react-style-material/blob/master/src/preview.js
+#include "src/preview.js"
 ```
 
 ## useable properties:
