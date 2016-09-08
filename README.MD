@@ -1,9 +1,26 @@
-#react-style-material
+# react-style-material
 css style materials for react.
 
 
-##resources:
+## resources:
 + https://atom.io/packages/atom-react-native-css
+
+## how to use this style:
++ install
+```bash
+npm install --save afeiship/react-style-material
+```
+
++ usage:
+```javascript
+import React, { Component } from 'react';
+import {
+  StyleSheet,
+} from 'react-native';
+import reactStyleMaterial from 'react-style-material';
+const basicStyles = StyleSheet.create(reactStyleMaterial);
+```
+
 
 ## useable properties:
 ```javascript
