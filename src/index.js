@@ -12,4 +12,6 @@ nx.each(modules, function(modulePath) {
   );
 });
 
+
+console.log(targetStyles);
 module.exports = targetStyles;
