@@ -1,5 +1,5 @@
 # react-style-material
-css style materials for react.
+css style materials for react native.
 
 
 ## resources:
