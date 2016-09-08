@@ -8,7 +8,7 @@ css style materials for react.
 ## how to use this style:
 + install
 ```bash
-npm install --save afeiship/react-style-material
+npm install --save `afeiship/react-style-material`
 ```
 
 + usage:
