@@ -3,7 +3,7 @@
 ## create preview.md
 $(
   cd src;
-  node index.js > preview.md
+  node index.js debug > preview.md
 );
 
 markdown-include markdown.json;

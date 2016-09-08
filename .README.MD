@@ -6,7 +6,10 @@ css style materials for react native.
 + https://atom.io/packages/atom-react-native-css
 
 ##republish:
-+ `cd src && node index.js > preview.js`
+```bash
+./publish.sh
+```
+
 
 ## how to use this style:
 + install
