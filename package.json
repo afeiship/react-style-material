@@ -7,11 +7,13 @@
     "name": "afei",
     "email": "1290657123@qq.com"
   },
+  "main": "src/index.js",
   "license": "MIT",
   "devDependencies": {
     "del": "^2.2.1",
     "gulp": "^3.9.1",
     "gulp-load-plugins": "^1.2.0",
+    "next-js-core": "afeiship/next-js-core",
     "yargs": "^4.7.1"
   }
 }
